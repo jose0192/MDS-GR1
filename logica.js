@@ -1,2 +1,2 @@
 alert("Clas 2-Repositorios")
-console.log("Esto va en consola")
+console.log("Esñto va en consola")
